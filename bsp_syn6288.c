@@ -5,7 +5,6 @@ typedef struct
 {
 	u8 send_buf[200];		//发送数据缓冲区
 	
-	
 }Syn6288_Type;
 Syn6288_Type syn6288;
 
